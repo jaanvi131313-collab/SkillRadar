@@ -1,0 +1,1319 @@
+[
+  {
+    "skill_id": "S001",
+    "name": "SQL",
+    "aliases": [
+      "Structured Query Language",
+      "SQL Server SQL"
+    ],
+    "category": "Database & Querying",
+    "definition": "Language for querying and manipulating relational databases (SELECT, JOIN, aggregation, window functions).",
+    "fliar_rank": 2
+  },
+  {
+    "skill_id": "S002",
+    "name": "Microsoft Excel",
+    "aliases": [
+      "MS Excel",
+      "Excel"
+    ],
+    "category": "BI & Productivity",
+    "definition": "Spreadsheet use for analysis and reporting: formulas, PivotTables, charts and data cleaning.",
+    "fliar_rank": 3
+  },
+  {
+    "skill_id": "S003",
+    "name": "Power BI",
+    "aliases": [
+      "PowerBI",
+      "Microsoft Power BI"
+    ],
+    "category": "BI & Visualization",
+    "definition": "Microsoft business-intelligence tool for building data models, reports and dashboards.",
+    "fliar_rank": 20
+  },
+  {
+    "skill_id": "S004",
+    "name": "Tableau",
+    "aliases": [
+      "Tableau Desktop"
+    ],
+    "category": "BI & Visualization",
+    "definition": "Visual analytics platform for building interactive dashboards and reports.",
+    "fliar_rank": 28
+  },
+  {
+    "skill_id": "S005",
+    "name": "Python",
+    "aliases": [
+      "Python programming"
+    ],
+    "category": "Programming",
+    "definition": "General-purpose programming language widely used for data analysis, automation and machine learning.",
+    "fliar_rank": 1
+  },
+  {
+    "skill_id": "S006",
+    "name": "R",
+    "aliases": [
+      "R language",
+      "R programming"
+    ],
+    "category": "Programming",
+    "definition": "Programming language and environment for statistical computing and graphics.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S007",
+    "name": "Pandas",
+    "aliases": [
+      "Python Pandas"
+    ],
+    "category": "Data Analysis",
+    "definition": "Python library for tabular data manipulation, cleaning and analysis.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S008",
+    "name": "NumPy",
+    "aliases": [
+      "Numerical Python"
+    ],
+    "category": "Data Analysis",
+    "definition": "Python library for numerical arrays and vectorised mathematical operations.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S009",
+    "name": "Matplotlib",
+    "aliases": [
+      "Pyplot"
+    ],
+    "category": "Data Visualization",
+    "definition": "Python library for static 2D plotting and charting.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S010",
+    "name": "Seaborn",
+    "aliases": [
+      "Python Seaborn"
+    ],
+    "category": "Data Visualization",
+    "definition": "Python statistical visualisation library built on Matplotlib.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S011",
+    "name": "Plotly",
+    "aliases": [
+      "Plotly Express"
+    ],
+    "category": "Data Visualization",
+    "definition": "Library for interactive charts and dashboards in Python and JavaScript.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S012",
+    "name": "Statistics",
+    "aliases": [
+      "Statistical analysis"
+    ],
+    "category": "Statistics",
+    "definition": "Collection, summarisation and inference from data using descriptive and inferential methods.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S013",
+    "name": "Probability",
+    "aliases": [
+      "Probability theory"
+    ],
+    "category": "Statistics",
+    "definition": "Mathematical study of uncertainty, distributions and random events.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S014",
+    "name": "Hypothesis Testing",
+    "aliases": [
+      "Statistical hypothesis testing"
+    ],
+    "category": "Statistics",
+    "definition": "Formal procedures (t-test, chi-square, etc.) for judging whether observed effects are statistically significant.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S015",
+    "name": "Regression Analysis",
+    "aliases": [
+      "Linear regression",
+      "logistic regression"
+    ],
+    "category": "Statistics & Modeling",
+    "definition": "Modelling the relationship between a response and predictors, including linear and logistic regression.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S016",
+    "name": "A/B Testing",
+    "aliases": [
+      "Split testing",
+      "controlled experiments"
+    ],
+    "category": "Experimentation",
+    "definition": "Controlled experiments comparing variants to measure the causal effect on a metric.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S017",
+    "name": "Exploratory Data Analysis",
+    "aliases": [
+      "EDA"
+    ],
+    "category": "Data Analysis",
+    "definition": "Initial investigation of a dataset to find patterns, anomalies and data-quality issues using summaries and plots.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S018",
+    "name": "Data Cleaning",
+    "aliases": [
+      "Data wrangling",
+      "data preprocessing"
+    ],
+    "category": "Data Engineering",
+    "definition": "Detecting and correcting missing, duplicate, inconsistent or invalid data before analysis.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S019",
+    "name": "ETL",
+    "aliases": [
+      "Extract Transform Load"
+    ],
+    "category": "Data Engineering",
+    "definition": "Extracting data from sources, transforming it and loading it into a target store.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S020",
+    "name": "Data Modeling",
+    "aliases": [
+      "Dimensional modeling",
+      "star schema"
+    ],
+    "category": "Data Engineering",
+    "definition": "Designing table structures and relationships (e.g. star schema, normalisation) for analytics or applications.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S021",
+    "name": "DAX",
+    "aliases": [
+      "Data Analysis Expressions"
+    ],
+    "category": "BI & Visualization",
+    "definition": "Formula language used in Power BI and Analysis Services for measures and calculated columns.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S022",
+    "name": "Power Query",
+    "aliases": [
+      "M language",
+      "Power Query Editor"
+    ],
+    "category": "BI & Visualization",
+    "definition": "Power BI/Excel tool and M language for importing and transforming data.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S023",
+    "name": "Looker",
+    "aliases": [
+      "Looker Studio",
+      "Google Data Studio"
+    ],
+    "category": "BI & Visualization",
+    "definition": "Google's BI platform and Looker Studio reporting tool for dashboards.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S024",
+    "name": "Google Analytics",
+    "aliases": [
+      "GA4",
+      "Google Analytics 4"
+    ],
+    "category": "Marketing Analytics",
+    "definition": "Web and app analytics platform for traffic, behaviour and conversion measurement.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S025",
+    "name": "Business Analysis",
+    "aliases": [
+      "Business requirements analysis"
+    ],
+    "category": "Business",
+    "definition": "Analysing business needs and processes to recommend solutions and improvements.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S026",
+    "name": "Requirements Gathering",
+    "aliases": [
+      "Stakeholder requirements"
+    ],
+    "category": "Business",
+    "definition": "Eliciting, documenting and validating stakeholder needs for a product or project.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S027",
+    "name": "Process Mapping",
+    "aliases": [
+      "BPMN",
+      "process modeling"
+    ],
+    "category": "Business",
+    "definition": "Documenting workflows with diagrams (e.g. BPMN) to analyse and improve processes.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S028",
+    "name": "Agile",
+    "aliases": [
+      "Agile methodology"
+    ],
+    "category": "Project Management",
+    "definition": "Iterative delivery approach emphasising incremental releases and continuous feedback.",
+    "fliar_rank": 38
+  },
+  {
+    "skill_id": "S029",
+    "name": "Scrum",
+    "aliases": [
+      "Scrum framework"
+    ],
+    "category": "Project Management",
+    "definition": "Agile framework with sprints, defined roles and ceremonies.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S030",
+    "name": "Jira",
+    "aliases": [
+      "Atlassian Jira"
+    ],
+    "category": "Project Management",
+    "definition": "Atlassian tool for issue tracking and agile project management.",
+    "fliar_rank": 24
+  },
+  {
+    "skill_id": "S031",
+    "name": "Project Management",
+    "aliases": [
+      "Project planning",
+      "project delivery"
+    ],
+    "category": "Management",
+    "definition": "Planning, scheduling, resourcing and delivering projects to scope, time and budget.",
+    "fliar_rank": 7
+  },
+  {
+    "skill_id": "S032",
+    "name": "Stakeholder Management",
+    "aliases": [
+      "Stakeholder engagement"
+    ],
+    "category": "Management",
+    "definition": "Identifying, engaging and aligning the people affected by or influencing a project.",
+    "fliar_rank": 22
+  },
+  {
+    "skill_id": "S033",
+    "name": "Communication",
+    "aliases": [
+      "Written communication",
+      "verbal communication"
+    ],
+    "category": "Soft Skills",
+    "definition": "Conveying information clearly in written and spoken form to varied audiences.",
+    "fliar_rank": 8
+  },
+  {
+    "skill_id": "S034",
+    "name": "Presentation Skills",
+    "aliases": [
+      "Presentation",
+      "storytelling"
+    ],
+    "category": "Soft Skills",
+    "definition": "Structuring and delivering findings or proposals to an audience.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S035",
+    "name": "Critical Thinking",
+    "aliases": [
+      "Analytical thinking"
+    ],
+    "category": "Soft Skills",
+    "definition": "Objective evaluation of evidence and arguments to reach reasoned conclusions.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S036",
+    "name": "Problem Solving",
+    "aliases": [
+      "Structured problem solving"
+    ],
+    "category": "Soft Skills",
+    "definition": "Structured identification, analysis and resolution of problems.",
+    "fliar_rank": 32
+  },
+  {
+    "skill_id": "S037",
+    "name": "Financial Modeling",
+    "aliases": [
+      "Financial modelling"
+    ],
+    "category": "Finance",
+    "definition": "Building quantitative models of a company's finances for forecasting and valuation, typically in Excel.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S038",
+    "name": "Financial Statement Analysis",
+    "aliases": [
+      "FSA",
+      "financial analysis"
+    ],
+    "category": "Finance",
+    "definition": "Interpreting income statements, balance sheets and cash-flow statements using ratios and trends.",
+    "fliar_rank": 48
+  },
+  {
+    "skill_id": "S039",
+    "name": "Accounting",
+    "aliases": [
+      "Financial accounting"
+    ],
+    "category": "Finance",
+    "definition": "Recording and reporting financial transactions under accounting standards.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S040",
+    "name": "Corporate Finance",
+    "aliases": [
+      "Capital budgeting",
+      "WACC"
+    ],
+    "category": "Finance",
+    "definition": "Capital structure, capital budgeting and funding decisions of firms.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S041",
+    "name": "Valuation",
+    "aliases": [
+      "DCF",
+      "comparable company analysis"
+    ],
+    "category": "Finance",
+    "definition": "Estimating the value of a business or asset (DCF, comparables, precedent transactions).",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S042",
+    "name": "Budgeting & Forecasting",
+    "aliases": [
+      "Financial planning",
+      "FP&A"
+    ],
+    "category": "Finance",
+    "definition": "Preparing budgets and forward financial projections, including FP&A processes.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S043",
+    "name": "Risk Analysis",
+    "aliases": [
+      "Risk assessment"
+    ],
+    "category": "Finance & Risk",
+    "definition": "Identifying and quantifying risks (credit, market, operational) and their impact.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S044",
+    "name": "Investment Research",
+    "aliases": [
+      "Equity research",
+      "securities analysis"
+    ],
+    "category": "Finance",
+    "definition": "Researching securities and sectors to support investment recommendations.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S045",
+    "name": "Portfolio Analysis",
+    "aliases": [
+      "Portfolio management analytics"
+    ],
+    "category": "Finance",
+    "definition": "Evaluating portfolio returns, risk and allocation.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S046",
+    "name": "Excel Financial Functions",
+    "aliases": [
+      "XLOOKUP",
+      "INDEX MATCH",
+      "PivotTables"
+    ],
+    "category": "Finance & BI",
+    "definition": "Advanced Excel features used in finance: lookup functions, PivotTables and financial formulas.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S047",
+    "name": "Python for Finance",
+    "aliases": [
+      "yfinance",
+      "quantitative finance Python"
+    ],
+    "category": "Finance & Programming",
+    "definition": "Applying Python to market data, quantitative analysis and financial modelling.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S048",
+    "name": "Econometrics",
+    "aliases": [
+      "Time-series econometrics"
+    ],
+    "category": "Economics & Finance",
+    "definition": "Statistical methods applied to economic and financial data, including time-series models.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S049",
+    "name": "Machine Learning",
+    "aliases": [
+      "ML"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Algorithms that learn patterns from data to make predictions or decisions.",
+    "fliar_rank": 23
+  },
+  {
+    "skill_id": "S050",
+    "name": "Supervised Learning",
+    "aliases": [
+      "Classification",
+      "regression models"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Learning from labelled examples for classification and regression tasks.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S051",
+    "name": "Unsupervised Learning",
+    "aliases": [
+      "Clustering",
+      "dimensionality reduction"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Finding structure in unlabelled data, e.g. clustering and dimensionality reduction.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S052",
+    "name": "Scikit-learn",
+    "aliases": [
+      "sklearn"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Python library of classical machine-learning algorithms and evaluation tools.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S053",
+    "name": "XGBoost",
+    "aliases": [
+      "Extreme Gradient Boosting"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Gradient-boosted decision-tree library for tabular prediction tasks.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S054",
+    "name": "Model Evaluation",
+    "aliases": [
+      "Cross-validation",
+      "performance metrics"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Assessing model quality with validation splits, cross-validation and metrics such as precision, recall and F1.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S055",
+    "name": "Feature Engineering",
+    "aliases": [
+      "Feature selection",
+      "feature creation"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Creating and selecting input variables that improve model performance.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S056",
+    "name": "Time-Series Forecasting",
+    "aliases": [
+      "Forecasting",
+      "ARIMA"
+    ],
+    "category": "AI & Machine Learning",
+    "definition": "Predicting future values from time-ordered data using methods such as ARIMA.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S057",
+    "name": "Natural Language Processing",
+    "aliases": [
+      "NLP"
+    ],
+    "category": "AI & NLP",
+    "definition": "Computational methods for processing and understanding human language text.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S058",
+    "name": "Named Entity Recognition",
+    "aliases": [
+      "NER"
+    ],
+    "category": "AI & NLP",
+    "definition": "Identifying and classifying entities (people, organisations, skills) in text.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S059",
+    "name": "Text Classification",
+    "aliases": [
+      "Document classification"
+    ],
+    "category": "AI & NLP",
+    "definition": "Assigning predefined categories to documents or text snippets.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S060",
+    "name": "Text Embeddings",
+    "aliases": [
+      "Sentence embeddings",
+      "vector embeddings"
+    ],
+    "category": "AI & NLP",
+    "definition": "Dense vector representations of text used for similarity search and downstream models.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S061",
+    "name": "Sentiment Analysis",
+    "aliases": [
+      "Opinion mining"
+    ],
+    "category": "AI & NLP",
+    "definition": "Determining the opinion or emotional polarity expressed in text.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S062",
+    "name": "Large Language Models",
+    "aliases": [
+      "LLMs",
+      "generative AI models"
+    ],
+    "category": "AI & NLP",
+    "definition": "Large pretrained neural language models used for text understanding and generation.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S063",
+    "name": "Retrieval-Augmented Generation",
+    "aliases": [
+      "RAG"
+    ],
+    "category": "AI & NLP",
+    "definition": "Combining document retrieval with a language model so answers are grounded in retrieved sources.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S064",
+    "name": "Prompt Engineering",
+    "aliases": [
+      "Prompt design"
+    ],
+    "category": "AI & NLP",
+    "definition": "Designing inputs to language models to obtain reliable, structured outputs.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S065",
+    "name": "Vector Databases",
+    "aliases": [
+      "Vector search"
+    ],
+    "category": "AI & NLP",
+    "definition": "Stores optimised for similarity search over embedding vectors.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S066",
+    "name": "Data Storytelling",
+    "aliases": [
+      "Analytical storytelling"
+    ],
+    "category": "Business & BI",
+    "definition": "Communicating data insights through narrative and effective visuals.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S067",
+    "name": "Data Governance",
+    "aliases": [
+      "Data quality",
+      "data stewardship"
+    ],
+    "category": "Data Management",
+    "definition": "Policies and processes ensuring data quality, ownership, security and compliance.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S068",
+    "name": "Data Privacy",
+    "aliases": [
+      "Privacy by design",
+      "data protection"
+    ],
+    "category": "Governance",
+    "definition": "Protecting personal data and complying with privacy regulation.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S069",
+    "name": "Git",
+    "aliases": [
+      "Version control"
+    ],
+    "category": "Software Tools",
+    "definition": "Distributed version-control system for tracking code changes.",
+    "fliar_rank": 12
+  },
+  {
+    "skill_id": "S070",
+    "name": "GitHub",
+    "aliases": [
+      "GitHub workflows"
+    ],
+    "category": "Software Tools",
+    "definition": "Platform for hosting Git repositories and collaborating through pull requests and workflows.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S071",
+    "name": "REST APIs",
+    "aliases": [
+      "API integration"
+    ],
+    "category": "Software Engineering",
+    "definition": "Designing or consuming HTTP-based web APIs for system integration.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S072",
+    "name": "JSON",
+    "aliases": [
+      "JavaScript Object Notation"
+    ],
+    "category": "Data Formats",
+    "definition": "Lightweight text format for structured data exchange.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S073",
+    "name": "PostgreSQL",
+    "aliases": [
+      "Postgres"
+    ],
+    "category": "Database & Querying",
+    "definition": "Open-source relational database system.",
+    "fliar_rank": 37
+  },
+  {
+    "skill_id": "S074",
+    "name": "MySQL",
+    "aliases": [
+      "MySQL database"
+    ],
+    "category": "Database & Querying",
+    "definition": "Widely used open-source relational database system.",
+    "fliar_rank": 50
+  },
+  {
+    "skill_id": "S075",
+    "name": "Microsoft Azure",
+    "aliases": [
+      "Azure cloud"
+    ],
+    "category": "Cloud",
+    "definition": "Microsoft's cloud platform for compute, storage, data and AI services.",
+    "fliar_rank": 10
+  },
+  {
+    "skill_id": "S076",
+    "name": "Amazon Web Services",
+    "aliases": [
+      "AWS"
+    ],
+    "category": "Cloud",
+    "definition": "Amazon's cloud platform for compute, storage, data and AI services.",
+    "fliar_rank": 4
+  },
+  {
+    "skill_id": "S077",
+    "name": "Google Cloud Platform",
+    "aliases": [
+      "GCP"
+    ],
+    "category": "Cloud",
+    "definition": "Google's cloud platform for compute, storage, data and AI services.",
+    "fliar_rank": 29
+  },
+  {
+    "skill_id": "S078",
+    "name": "Docker",
+    "aliases": [
+      "Containerization"
+    ],
+    "category": "DevOps",
+    "definition": "Packaging applications into containers for consistent deployment.",
+    "fliar_rank": 15
+  },
+  {
+    "skill_id": "S079",
+    "name": "Linux",
+    "aliases": [
+      "Linux command line"
+    ],
+    "category": "Systems",
+    "definition": "Unix-like operating system and command-line environment used on servers.",
+    "fliar_rank": 43
+  },
+  {
+    "skill_id": "S080",
+    "name": "Cybersecurity Fundamentals",
+    "aliases": [
+      "Information security"
+    ],
+    "category": "Security",
+    "definition": "Basic principles of protecting systems and data from threats.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S081",
+    "name": "Salesforce",
+    "aliases": [
+      "Salesforce CRM"
+    ],
+    "category": "CRM & Sales",
+    "definition": "Cloud CRM platform for sales, service and marketing workflows.",
+    "fliar_rank": 31
+  },
+  {
+    "skill_id": "S082",
+    "name": "CRM Analytics",
+    "aliases": [
+      "Customer relationship analytics"
+    ],
+    "category": "CRM & Sales",
+    "definition": "Analysing customer-relationship data to understand pipeline, retention and behaviour.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S083",
+    "name": "Market Research",
+    "aliases": [
+      "Consumer research"
+    ],
+    "category": "Marketing",
+    "definition": "Gathering and analysing data on customers, competitors and markets.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S084",
+    "name": "SEO",
+    "aliases": [
+      "Search engine optimization"
+    ],
+    "category": "Marketing",
+    "definition": "Improving website visibility in organic search results.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S085",
+    "name": "Digital Marketing Analytics",
+    "aliases": [
+      "Campaign analytics"
+    ],
+    "category": "Marketing",
+    "definition": "Measuring and optimising online campaign performance.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S086",
+    "name": "Marketing Attribution",
+    "aliases": [
+      "Multi-touch attribution"
+    ],
+    "category": "Marketing",
+    "definition": "Assigning credit for conversions across marketing touchpoints.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S087",
+    "name": "Supply Chain Analytics",
+    "aliases": [
+      "Supply chain optimization"
+    ],
+    "category": "Operations",
+    "definition": "Using data to optimise sourcing, logistics, demand and fulfilment.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S088",
+    "name": "Inventory Optimization",
+    "aliases": [
+      "Inventory analytics"
+    ],
+    "category": "Operations",
+    "definition": "Balancing stock levels against demand and carrying cost.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S089",
+    "name": "Operations Research",
+    "aliases": [
+      "Optimization",
+      "linear programming"
+    ],
+    "category": "Operations",
+    "definition": "Mathematical optimisation and modelling for operational decisions.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S090",
+    "name": "Human Resources Analytics",
+    "aliases": [
+      "People analytics",
+      "HR analytics"
+    ],
+    "category": "HR",
+    "definition": "Using workforce data to inform HR decisions such as attrition and hiring.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S091",
+    "name": "Recruitment Analytics",
+    "aliases": [
+      "Talent acquisition analytics"
+    ],
+    "category": "HR",
+    "definition": "Analysing hiring funnel, sourcing and time-to-hire data.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S092",
+    "name": "Product Analytics",
+    "aliases": [
+      "Product metrics",
+      "funnel analysis"
+    ],
+    "category": "Product",
+    "definition": "Measuring user behaviour, funnels and retention to guide product decisions.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S093",
+    "name": "SQL Query Optimization",
+    "aliases": [
+      "Query performance tuning"
+    ],
+    "category": "Database & Querying",
+    "definition": "Improving SQL performance through indexing, query rewriting and execution-plan analysis.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S094",
+    "name": "Data Warehousing",
+    "aliases": [
+      "Data warehouse",
+      "lakehouse"
+    ],
+    "category": "Data Engineering",
+    "definition": "Designing and operating central analytical data stores.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S095",
+    "name": "Apache Spark",
+    "aliases": [
+      "PySpark"
+    ],
+    "category": "Data Engineering",
+    "definition": "Distributed engine for large-scale data processing, including PySpark.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S096",
+    "name": "dbt",
+    "aliases": [
+      "Data build tool"
+    ],
+    "category": "Data Engineering",
+    "definition": "Tool for transforming data inside a warehouse using versioned SQL models and tests.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S097",
+    "name": "Snowflake",
+    "aliases": [
+      "Snowflake data platform"
+    ],
+    "category": "Data Engineering",
+    "definition": "Cloud data-platform used as a data warehouse.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S098",
+    "name": "Microsoft Fabric",
+    "aliases": [
+      "Fabric analytics"
+    ],
+    "category": "Data Engineering",
+    "definition": "Microsoft's unified analytics platform combining data engineering, warehousing and Power BI.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S099",
+    "name": "PowerPoint",
+    "aliases": [
+      "Microsoft PowerPoint"
+    ],
+    "category": "Productivity",
+    "definition": "Building presentation slides to communicate analysis and recommendations.",
+    "fliar_rank": 16
+  },
+  {
+    "skill_id": "S100",
+    "name": "Excel VBA",
+    "aliases": [
+      "Macros",
+      "Visual Basic for Applications"
+    ],
+    "category": "Automation",
+    "definition": "Automating Excel tasks with Visual Basic for Applications macros.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S101",
+    "name": "CI/CD",
+    "aliases": [],
+    "category": "DevOps",
+    "definition": "Automated build, test and deployment pipelines.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S102",
+    "name": "JavaScript",
+    "aliases": [],
+    "category": "Programming",
+    "definition": "Scripting language of the web, used in front-end and back-end development.",
+    "fliar_rank": 6
+  },
+  {
+    "skill_id": "S103",
+    "name": "React",
+    "aliases": [],
+    "category": "Web Development",
+    "definition": "JavaScript library for building user interfaces.",
+    "fliar_rank": 45
+  },
+  {
+    "skill_id": "S104",
+    "name": "HTML/CSS",
+    "aliases": [],
+    "category": "Web Development",
+    "definition": "Markup and styling languages used to build web pages.",
+    "fliar_rank": 33
+  },
+  {
+    "skill_id": "S105",
+    "name": "Java",
+    "aliases": [],
+    "category": "Programming",
+    "definition": "Programming language widely used for enterprise back-end systems.",
+    "fliar_rank": 5
+  },
+  {
+    "skill_id": "S106",
+    "name": "Negotiation",
+    "aliases": [],
+    "category": "Soft Skills",
+    "definition": "Reaching agreements with clients, vendors or colleagues.",
+    "fliar_rank": 35
+  },
+  {
+    "skill_id": "S107",
+    "name": "DevOps",
+    "aliases": [],
+    "category": "DevOps",
+    "definition": "Practices combining software development and IT operations.",
+    "fliar_rank": 46
+  },
+  {
+    "skill_id": "S108",
+    "name": "Kubernetes",
+    "aliases": [],
+    "category": "DevOps",
+    "definition": "Container orchestration platform.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S109",
+    "name": "Microservices",
+    "aliases": [],
+    "category": "Software Engineering",
+    "definition": "Architecture style of small independently deployable services.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S110",
+    "name": "TypeScript",
+    "aliases": [],
+    "category": "Programming",
+    "definition": "Typed superset of JavaScript.",
+    "fliar_rank": 25
+  },
+  {
+    "skill_id": "S111",
+    "name": "Business Development",
+    "aliases": [],
+    "category": "Sales",
+    "definition": "Identifying and pursuing growth opportunities, partners and clients.",
+    "fliar_rank": 40
+  },
+  {
+    "skill_id": "S112",
+    "name": "Angular",
+    "aliases": [],
+    "category": "Web Development",
+    "definition": "TypeScript-based front-end web framework.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S113",
+    "name": "Customer Service",
+    "aliases": [],
+    "category": "Customer Operations",
+    "definition": "Assisting and supporting customers before and after purchase.",
+    "fliar_rank": 41
+  },
+  {
+    "skill_id": "S114",
+    "name": "Recruitment",
+    "aliases": [],
+    "category": "HR",
+    "definition": "Sourcing, screening and hiring candidates.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S115",
+    "name": "Microsoft Office",
+    "aliases": [],
+    "category": "Productivity",
+    "definition": "Microsoft Word, Excel, PowerPoint and Outlook suite.",
+    "fliar_rank": 11
+  },
+  {
+    "skill_id": "S116",
+    "name": "Node.js",
+    "aliases": [],
+    "category": "Web Development",
+    "definition": "JavaScript runtime for server-side applications.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S117",
+    "name": "Regulatory Compliance",
+    "aliases": [],
+    "category": "Governance & Risk",
+    "definition": "Ensuring adherence to laws, regulations and policies.",
+    "fliar_rank": 27
+  },
+  {
+    "skill_id": "S118",
+    "name": "Figma / UI-UX Design",
+    "aliases": [],
+    "category": "Design",
+    "definition": "Designing user interfaces and experiences.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S119",
+    "name": "MongoDB",
+    "aliases": [],
+    "category": "Database & Querying",
+    "definition": "Document-oriented NoSQL database.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S120",
+    "name": "SAP",
+    "aliases": [],
+    "category": "ERP",
+    "definition": "Enterprise resource planning software suite.",
+    "fliar_rank": 26
+  },
+  {
+    "skill_id": "S121",
+    "name": "Spring Boot",
+    "aliases": [],
+    "category": "Software Engineering",
+    "definition": "Java framework for building microservices and web applications.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S122",
+    "name": "Risk Management",
+    "aliases": [],
+    "category": "Governance & Risk",
+    "definition": "Identifying, assessing and mitigating organisational risks.",
+    "fliar_rank": 34
+  },
+  {
+    "skill_id": "S123",
+    "name": "Terraform",
+    "aliases": [],
+    "category": "DevOps",
+    "definition": "Infrastructure-as-code tool.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S124",
+    "name": "C#/.NET",
+    "aliases": [],
+    "category": "Programming",
+    "definition": "Microsoft development platform and C# language.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S125",
+    "name": "Kafka",
+    "aliases": [],
+    "category": "Data Engineering",
+    "definition": "Distributed event-streaming platform.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S126",
+    "name": "Generative AI",
+    "aliases": [],
+    "category": "AI & NLP",
+    "definition": "Models that generate text, images or code.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S127",
+    "name": "Financial Reporting",
+    "aliases": [],
+    "category": "Finance",
+    "definition": "Preparing statutory and management financial reports.",
+    "fliar_rank": 49
+  },
+  {
+    "skill_id": "S128",
+    "name": "Test Automation",
+    "aliases": [],
+    "category": "Quality Assurance",
+    "definition": "Automating software tests with frameworks and scripts.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S129",
+    "name": "Social Media Marketing",
+    "aliases": [],
+    "category": "Marketing",
+    "definition": "Using social platforms for marketing and engagement.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S130",
+    "name": "C++",
+    "aliases": [],
+    "category": "Programming",
+    "definition": "Compiled general-purpose programming language.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S131",
+    "name": "Content Writing",
+    "aliases": [],
+    "category": "Marketing",
+    "definition": "Writing and producing content for audiences.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S132",
+    "name": "Databricks",
+    "aliases": [],
+    "category": "Data Engineering",
+    "definition": "Cloud data and AI platform built on Spark.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S133",
+    "name": "Deep Learning",
+    "aliases": [],
+    "category": "AI & Machine Learning",
+    "definition": "Machine learning with multi-layer neural networks.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S134",
+    "name": "PyTorch",
+    "aliases": [],
+    "category": "AI & Machine Learning",
+    "definition": "Open-source deep-learning framework.",
+    "fliar_rank": null
+  },
+  {
+    "skill_id": "S135",
+    "name": "TensorFlow",
+    "aliases": [],
+    "category": "AI & Machine Learning",
+    "definition": "Open-source deep-learning framework.",
+    "fliar_rank": null
+  }
+]

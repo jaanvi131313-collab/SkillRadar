@@ -1,0 +1,207 @@
+{
+  "dataset_file": "Dataset.xlsx",
+  "total_sheets": 15,
+  "sheet_names": [
+    "README",
+    "01_Source_Register",
+    "02_Raw_Jobs",
+    "03_Clean_Jobs",
+    "04_Skill_Taxonomy",
+    "05_Job_Roles",
+    "06_Extracted_Skills",
+    "07_Gold_Labels",
+    "08_Feature_Table",
+    "09_Predictions",
+    "10_Model_Evaluation",
+    "11_Data_Quality",
+    "12_Data_Dictionary",
+    "13_Import_Plan",
+    "14_Market_Benchmarks"
+  ],
+  "total_raw_jobs": 16458,
+  "total_clean_jobs": 16001,
+  "total_skills_taxonomy": 135,
+  "total_job_roles": 65,
+  "total_extracted_skills": 12324,
+  "sources": [
+    {
+      "source_id": "SRC001",
+      "source_name": "Fliar BI - India Salary Data 2026",
+      "source_url": "https://fliarbi.com/datasets/india-salary-benchmarks-2026/",
+      "license_terms": "CC BY-NC 4.0 (verify current terms)",
+      "reported_volume": "12,958 rows in the provided file (India sample); template notes a full dataset of 49,355 (not independently verified)",
+      "date_coverage": "posted_month 2024-01 to 2026-06 (month only)",
+      "fields_and_coverage": "posting_id, posted_month, company, company_domain (11%), job_title, role_family, seniority (93%), experience_band (92%), city (97%), industry_category (51%), salary_min/max/mid in INR, fliar_profile_url",
+      "potential_use": "Salary, role, seniority, city analysis",
+      "known_limitations": "No descriptions. Month granularity only. Salary period not stated in file (annual assumed; median mid-point INR 10.2 lakh). 15 rows in non-Indian cities. 245 rows have only a single salary value. role_family/seniority partly inferred by the source from titles.",
+      "import_status": "Imported 12,958 rows to 02_Raw_Jobs (12,943 eligible)",
+      "next_action": "Verify CC BY-NC terms (non-commercial) and keep attribution; confirm salary period with Fliar docs"
+    },
+    {
+      "source_id": "SRC002",
+      "source_name": "Hugging Face - Indian Tech Career Intelligence 2026",
+      "source_url": "https://huggingface.co/datasets/Uzaib52/indian-tech-career-intelligence-2026",
+      "license_terms": "MIT per dataset card (verify)",
+      "reported_volume": "100K rows reported",
+      "date_coverage": "2026 dates in preview",
+      "fields_and_coverage": "Descriptions appear templated; limited category diversity",
+      "potential_use": "Prototype/schema testing only until audited",
+      "known_limitations": "Potential synthetic/template artifacts; verify provenance",
+      "import_status": "Not yet imported",
+      "next_action": "Inspect random sample, uniqueness, text diversity and sources"
+    },
+    {
+      "source_id": "SRC003",
+      "source_name": "Hugging Face - Role Radar Dataset",
+      "source_url": "https://huggingface.co/datasets/oksomu/role-radar-dataset",
+      "license_terms": "Apache-2.0 per dataset card (verify)",
+      "reported_volume": "2,500 jobs; 22,465 profile-job pairs",
+      "date_coverage": "Dataset-card coverage",
+      "fields_and_coverage": "Job descriptions plus profile/job matching labels",
+      "potential_use": "NLP prototype and job-match experiments",
+      "known_limitations": "Profiles mostly synthetic; many labels model-generated; gold set only 108 human-reviewed",
+      "import_status": "Not yet imported",
+      "next_action": "Separate real job rows, synthetic profiles, generated labels and gold evaluation"
+    },
+    {
+      "source_id": "SRC004",
+      "source_name": "Headcount Labs Job Postings",
+      "source_url": "https://github.com/HeadcountLabs/job-postings",
+      "license_terms": "ODbL 1.0 for public subsets (per repository README); API terms at headcountlabs.com/pricing",
+      "reported_volume": "8,367,463 jobs / 9,987,268 postings in 2026-10-19 snapshot; repo holds a 1,000-row sample",
+      "date_coverage": "Snapshot 2026-10-19; sample = 1,000 random jobs first posted Oct 2026",
+      "fields_and_coverage": "Sample columns: job_id, title, employer_name, work_arrangement, posted_at, posting_url, currentness. Full tables add pay, location (country/region/city), employment_type. Global coverage; no country field in sample",
+      "potential_use": "Structured market analysis and source lineage",
+      "known_limitations": "Dataset has NO job-description text (live API has it; free key needed). Not India-specific. Sample has no salary or location fields.",
+      "import_status": "Sample imported to 02_Raw_Jobs (1,000 rows) - staged, excluded from analysis",
+      "next_action": "Create free API key (100,000 records/month free) and query India + the 50 target roles to obtain descriptions; verify ODbL attribution"
+    },
+    {
+      "source_id": "SRC005",
+      "source_name": "Kaggle & LinkedIn India Job Market Corpus 2024 (as shown in current SkillRadar prototype)",
+      "source_url": "Not shown in prototype screenshots - team to supply",
+      "license_terms": "CC-BY-4.0 as displayed in prototype (unverified)",
+      "reported_volume": "Prototype shows 1,091 / 1,050 (468 Kaggle + 582 LinkedIn) / 937 after filter",
+      "date_coverage": "2024-01-15 to 2024-11-20 (as displayed)",
+      "fields_and_coverage": "Not available - original files not provided",
+      "potential_use": "Existing prototype dataset; candidate for India NLP corpus once provenance confirmed",
+      "known_limitations": "Row counts are inconsistent across screens (1,091 vs 468+582=1,050 vs 937). Original dataset links and licences not visible; scraped-data terms must be checked.",
+      "import_status": "Not imported - file not provided",
+      "next_action": "Supply original files + links; reconcile row counts; verify licence before reuse"
+    },
+    {
+      "source_id": "SRC006",
+      "source_name": "Scraped LinkedIn India job postings (scraped_jobs.xlsx, team-provided)",
+      "source_url": "https://www.linkedin.com/jobs (per-row url in 02_Raw_Jobs)",
+      "license_terms": "Not stated. LinkedIn terms restrict scraping; treat as internal academic-prototype data, do not redistribute descriptions",
+      "reported_volume": "2,500 rows provided; 2,057 eligible after cleaning",
+      "date_coverage": "Scraped 2026-04-30 (566 rows) and 2026-05-01 (1,934 rows); posted_at empty",
+      "fields_and_coverage": "id, title, company, location, full description, seniority_level, employment_type, job_function, industry, url, scraped_at, role_family_hint, remote_hint",
+      "potential_use": "Primary NLP corpus: skill extraction, education/experience parsing, role mapping",
+      "known_limitations": "No posted date or salary. 29 exact duplicate rows + 142 same-company/title/description repeats. 222 US rows and 33 other non-India rows. role_family_hint/remote_hint are scraper keyword hints (remote_hint true only where the word \"remote\" appears). Scrape covers two days.",
+      "import_status": "Imported 2,500 rows to 02_Raw_Jobs (2,057 eligible)",
+      "next_action": "Confirm legal basis for scraped content before any public release; collect posted dates if possible"
+    },
+    {
+      "source_id": "SRC007",
+      "source_name": "Fliar Research - Job Postings 2026 India & US data card (REPORT.md)",
+      "source_url": "https://github.com/fliarbi/radar-api-mcp",
+      "license_terms": "CC BY-NC 4.0 (per the data card)",
+      "reported_volume": "Data card for 1,654,294 postings (sample of 100,009 mentioned); tables computed on full data",
+      "date_coverage": "Jan-Jun 2026",
+      "fields_and_coverage": "Aggregated tables only: monthly counts, top skills with median salary, salary percentiles, top cities",
+      "potential_use": "Market benchmarks and cross-checks (14_Market_Benchmarks)",
+      "known_limitations": "Aggregates in USD, not row-level. Describes a different release from the provided CSV (columns and date range differ) so counts must not be mixed with SRC001 rows.",
+      "import_status": "Aggregates parsed into 14_Market_Benchmarks",
+      "next_action": "Cite as benchmark only; keep US$ units"
+    }
+  ],
+  "data_quality_audits": [
+    {
+      "check_id": "Q001",
+      "check_name": "Unique job IDs",
+      "method": "COUNTIF/duplicate check",
+      "status": "Pass",
+      "acceptance_rule": "Fail if duplicate job_id after canonicalization",
+      "action": "Run 2026-10-24 (Python): job_id unique across all 15,458 imported rows; LinkedIn exact duplicate ids kept with -dupN suffix and excluded."
+    },
+    {
+      "check_id": "Q002",
+      "check_name": "Duplicate postings",
+      "method": "Compare title/company/location/date/description hash",
+      "status": "Pass with exclusions",
+      "acceptance_rule": "Review reposts and cross-source copies",
+      "action": "LinkedIn: 171 duplicate rows flagged and excluded (29 exact + same company/title/description). Fliar: source already deduplicated per company+title+month; 4.0% of company+title groups repeat across months (kept, grouped for splitting)."
+    },
+    {
+      "check_id": "Q003",
+      "check_name": "Missing job description",
+      "method": "Count blank descriptions",
+      "status": "Flag",
+      "acceptance_rule": "Exclude from description-based NLP evaluation",
+      "action": "LinkedIn: 17 rows under 200 chars and 17 non-English/unknown excluded. Fliar (12,958) and Headcount (1,000) have no descriptions by design, so only 2057 rows can feed NLP."
+    },
+    {
+      "check_id": "Q004",
+      "check_name": "Salary period/currency",
+      "method": "Check currency and period fields",
+      "status": "Flag - review",
+      "acceptance_rule": "Normalize before salary comparisons",
+      "action": "Fliar salaries are INR; period assumed annual (not stated). 245 rows have a single value (min blank). 475 rows have mid-point below Rs 1.5 lakh/yr (mostly internships) - plausible, not removed. No salary in LinkedIn rows."
+    },
+    {
+      "check_id": "Q005",
+      "check_name": "Date validity",
+      "method": "Check dates parse and within source coverage",
+      "status": "Flag",
+      "acceptance_rule": "Investigate impossible/future dates",
+      "action": "Fliar: all 12,958 posted_month values valid (2024-01 to 2026-06), but only month known. LinkedIn: posted_at is empty in 100% of rows; only scrape date (2026-04-30/05-01) available."
+    },
+    {
+      "check_id": "Q006",
+      "check_name": "Skill taxonomy coverage",
+      "method": "Share of extracted skills mapped to canonical taxonomy",
+      "status": "Run",
+      "acceptance_rule": "Review unmapped terms",
+      "action": "94.1% of 2057 eligible LinkedIn JDs have at least one extracted skill; mean 5.5 distinct skills per JD (dictionary_regex). Precision/recall unknown until 07_Gold_Labels is annotated."
+    },
+    {
+      "check_id": "Q007",
+      "check_name": "Gold-label agreement",
+      "method": "Cohen's kappa or agreement rate between annotators",
+      "status": "Not run",
+      "acceptance_rule": "Investigate systematic disagreements",
+      "action": "No human annotations yet. 07_Gold_Labels contains 991 candidate pairs ready for two annotators."
+    },
+    {
+      "check_id": "Q008",
+      "check_name": "Leakage",
+      "method": "Duplicate group overlap across splits",
+      "status": "Pass",
+      "acceptance_rule": "Must be zero across train/validation/test",
+      "action": "Run 2026-10-24: 0 duplicate groups span more than one split (Fliar and LinkedIn checked). Splits are group-based."
+    },
+    {
+      "check_id": "Q009",
+      "check_name": "Source coverage",
+      "method": "Counts by source, city, role, date and seniority",
+      "status": "Flag - bias",
+      "acceptance_rule": "Report imbalance and limitations",
+      "action": "Fliar top cities: Bengaluru 2829, Hyderabad 1486, Mumbai 1479, Pune 971, Gurugram 844. LinkedIn top cities: Bengaluru 399, Mumbai 341, Hyderabad 324, Pune 177, Chennai 153. LinkedIn covers two scrape days only; Fliar sample is hash-selected by company. Neither is a representative sample of the Indian job market."
+    },
+    {
+      "check_id": "Q010",
+      "check_name": "Text quality/diversity",
+      "method": "Near-duplicate descriptions and templated text",
+      "status": "Flag",
+      "acceptance_rule": "Review suspicious repetition",
+      "action": "15.5% of eligible LinkedIn JDs share their first 300 characters with another eligible JD (same-company boilerplate/templates); keep in mind when counting skill demand."
+    }
+  ],
+  "limitations": [
+    "Fliar BI salary data (12,958 rows) specifies INR amounts but salary period is assumed annual (median mid-point INR 10.2 lakh).",
+    "Job descriptions are only present in LinkedIn sample (2,057 eligible rows); Fliar BI and Headcount rows do not contain descriptions.",
+    "Candidate roles and extracted skills reflect historical posting samples and do not guarantee current employer hiring probability.",
+    "Simulations and quizzes are pedagogically calibrated assessments, clearly distinct from official employer technical screens."
+  ]
+}

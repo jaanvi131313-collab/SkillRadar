@@ -1,0 +1,6081 @@
+[
+  {
+    "role_id": "R001",
+    "title": "Data Analyst",
+    "role_family": "Data & Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Collects, cleans and analyses data to answer business questions and builds reports and dashboards.",
+    "postings_count": 67,
+    "salary_stats": {
+      "count": 45,
+      "min": 175000,
+      "p25": 400000,
+      "median": 601500,
+      "p75": 1300000,
+      "max": 10800000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Ahmedabad",
+      "Hyderabad",
+      "Chennai",
+      "Gurugram"
+    ],
+    "sample_companies": [
+      "Maxgen Technologies Private Limited",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Arise Global Services",
+      "XenonStack",
+      "**********"
+    ],
+    "skills": [
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S004",
+        "name": "Tableau",
+        "category": "BI & Visualization",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S012",
+        "name": "Statistics",
+        "category": "Statistics",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S020",
+        "name": "Data Modeling",
+        "category": "Data Engineering",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S067",
+        "name": "Data Governance",
+        "category": "Data Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S075",
+        "name": "Microsoft Azure",
+        "category": "Cloud",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      }
+    ]
+  },
+  {
+    "role_id": "R002",
+    "title": "Business Analyst",
+    "role_family": "Business & Strategy",
+    "seniority": "Entry to senior",
+    "definition": "Bridges business and technical teams by analysing processes, gathering requirements and recommending solutions.",
+    "postings_count": 97,
+    "salary_stats": {
+      "count": 90,
+      "min": 75000,
+      "p25": 500000,
+      "median": 725000,
+      "p75": 1600000,
+      "max": 3750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Gurugram",
+      "Chennai"
+    ],
+    "sample_companies": [
+      "EquiLend",
+      "**********",
+      "Ramco Systems",
+      "Clover Infotech",
+      "eidiko systems integrators private limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S025",
+        "name": "Business Analysis",
+        "category": "Business",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S026",
+        "name": "Requirements Gathering",
+        "category": "Business",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S030",
+        "name": "Jira",
+        "category": "Project Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S004",
+        "name": "Tableau",
+        "category": "BI & Visualization",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S027",
+        "name": "Process Mapping",
+        "category": "Business",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S122",
+        "name": "Risk Management",
+        "category": "Governance & Risk",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R003",
+    "title": "Business Intelligence Analyst",
+    "role_family": "Data & Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Turns organisational data into dashboards and reports that support decision-making.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 875000,
+      "p25": 875000,
+      "median": 875000,
+      "p75": 875000,
+      "max": 875000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Chennai"
+    ],
+    "sample_companies": [
+      "CBTS Technology Solutions India LLP"
+    ],
+    "skills": [
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S004",
+        "name": "Tableau",
+        "category": "BI & Visualization",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S020",
+        "name": "Data Modeling",
+        "category": "Data Engineering",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      }
+    ]
+  },
+  {
+    "role_id": "R004",
+    "title": "BI Developer",
+    "role_family": "Data & Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Builds and maintains BI data models, ETL pipelines and reporting solutions.",
+    "postings_count": 18,
+    "salary_stats": {
+      "count": 18,
+      "min": 400000,
+      "p25": 600000,
+      "median": 1100000,
+      "p75": 1850000,
+      "max": 2950000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Ahmedabad",
+      "Pune",
+      "Mumbai",
+      "Chandigarh"
+    ],
+    "sample_companies": [
+      "E4 Software Services",
+      "Tops Infosolutions",
+      "vaaragonenterprisescom",
+      "Wissen Technology",
+      "Godrej Properties"
+    ],
+    "skills": [
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S019",
+        "name": "ETL",
+        "category": "Data Engineering",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S020",
+        "name": "Data Modeling",
+        "category": "Data Engineering",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S094",
+        "name": "Data Warehousing",
+        "category": "Data Engineering",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 5
+      }
+    ]
+  },
+  {
+    "role_id": "R005",
+    "title": "Financial Analyst",
+    "role_family": "Finance",
+    "seniority": "Entry to senior",
+    "definition": "Analyses financial data and performance to support budgeting, forecasting and investment decisions.",
+    "postings_count": 27,
+    "salary_stats": {
+      "count": 16,
+      "min": 200000,
+      "p25": 350000,
+      "median": 700000,
+      "p75": 1350000,
+      "max": 2750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Pune",
+      "Hyderabad",
+      "Gurugram",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "sample_companies": [
+      "Ecolab",
+      "Epiq Systems",
+      "Alight",
+      "Insight Advisors",
+      "**********"
+    ],
+    "skills": [
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S043",
+        "name": "Risk Analysis",
+        "category": "Finance & Risk",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S120",
+        "name": "SAP",
+        "category": "ERP",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S127",
+        "name": "Financial Reporting",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R006",
+    "title": "FP&A Analyst",
+    "role_family": "Finance",
+    "seniority": "Entry to senior",
+    "definition": "Supports planning, budgeting, forecasting and variance analysis for a company's finance function.",
+    "postings_count": 6,
+    "salary_stats": {
+      "count": 5,
+      "min": 300000,
+      "p25": 550000,
+      "median": 600000,
+      "p75": 1050000,
+      "max": 1100000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Gurugram",
+      "Hyderabad",
+      "Delhi",
+      "Pune"
+    ],
+    "sample_companies": [
+      "Omnicorm Media Group",
+      "Alight",
+      "Cadbury",
+      "Fibe",
+      "Mlops Solutions Pvt Ltd"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R007",
+    "title": "Equity Research Analyst",
+    "role_family": "Finance & Investments",
+    "seniority": "Entry to senior",
+    "definition": "Researches listed companies and sectors and produces valuation-based investment views.",
+    "postings_count": 4,
+    "salary_stats": {
+      "count": 3,
+      "min": 575000,
+      "p25": 575000,
+      "median": 4500000,
+      "p75": 8500000,
+      "max": 8500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Mumbai",
+      "Gandhinagar"
+    ],
+    "sample_companies": [
+      "Quest Business Solution",
+      "CLSA Limited",
+      "Randstad India"
+    ],
+    "skills": [
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S037",
+        "name": "Financial Modeling",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R008",
+    "title": "Investment Banking Analyst",
+    "role_family": "Finance & Investments",
+    "seniority": "Entry to senior",
+    "definition": "Supports M&A and capital-markets transactions with financial modelling, valuation and pitch materials.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R009",
+    "title": "Risk Analyst",
+    "role_family": "Finance & Risk",
+    "seniority": "Entry to senior",
+    "definition": "Identifies, measures and monitors financial or operational risks.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 1750000,
+      "p25": 1750000,
+      "median": 1750000,
+      "p75": 1750000,
+      "max": 1750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru"
+    ],
+    "sample_companies": [
+      "**********"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R010",
+    "title": "Credit Analyst",
+    "role_family": "Finance & Risk",
+    "seniority": "Entry to senior",
+    "definition": "Assesses borrowers' creditworthiness and supports lending decisions.",
+    "postings_count": 4,
+    "salary_stats": {
+      "count": 2,
+      "min": 1100000,
+      "p25": 1100000,
+      "median": 2750000,
+      "p75": 2750000,
+      "max": 2750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Elysium Capital",
+      "Locus Enterprises",
+      "ALPHA ALTERNATIVES HOLDINGS PRIVATE LIMITED",
+      "Adani Electricity"
+    ],
+    "skills": [
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S037",
+        "name": "Financial Modeling",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S043",
+        "name": "Risk Analysis",
+        "category": "Finance & Risk",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R011",
+    "title": "Data Scientist",
+    "role_family": "Data & AI",
+    "seniority": "Entry to senior",
+    "definition": "Applies statistics and machine learning to build predictive models and extract insights.",
+    "postings_count": 56,
+    "salary_stats": {
+      "count": 39,
+      "min": 102000,
+      "p25": 950000,
+      "median": 1939500,
+      "p75": 2750000,
+      "max": 4750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Pune",
+      "Mumbai",
+      "Gurugram",
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "TVARIT GmbH",
+      "Zf Friedrich",
+      "SLB",
+      "Capgemini"
+    ],
+    "skills": [
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S012",
+        "name": "Statistics",
+        "category": "Statistics",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S126",
+        "name": "Generative AI",
+        "category": "AI & NLP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S008",
+        "name": "NumPy",
+        "category": "Data Analysis",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S052",
+        "name": "Scikit-learn",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S062",
+        "name": "Large Language Models",
+        "category": "AI & NLP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S055",
+        "name": "Feature Engineering",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S051",
+        "name": "Unsupervised Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S056",
+        "name": "Time-Series Forecasting",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      }
+    ]
+  },
+  {
+    "role_id": "R012",
+    "title": "Machine Learning Engineer",
+    "role_family": "Data & AI",
+    "seniority": "Entry to senior",
+    "definition": "Builds, deploys and maintains machine-learning models in production systems.",
+    "postings_count": 45,
+    "salary_stats": {
+      "count": 37,
+      "min": 75000,
+      "p25": 700000,
+      "median": 1525000,
+      "p75": 2750000,
+      "max": 7000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Chennai",
+      "Gurugram",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Pluginlive",
+      "Gruve",
+      "Qualcomm",
+      "NirwanaAI"
+    ],
+    "skills": [
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S062",
+        "name": "Large Language Models",
+        "category": "AI & NLP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S134",
+        "name": "PyTorch",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S135",
+        "name": "TensorFlow",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S133",
+        "name": "Deep Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S057",
+        "name": "Natural Language Processing",
+        "category": "AI & NLP",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S094",
+        "name": "Data Warehousing",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S095",
+        "name": "Apache Spark",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R013",
+    "title": "NLP Engineer",
+    "role_family": "Data & AI",
+    "seniority": "Entry to senior",
+    "definition": "Develops systems that process and understand text, such as extraction, classification and search.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R014",
+    "title": "AI Engineer",
+    "role_family": "Data & AI",
+    "seniority": "Entry to senior",
+    "definition": "Builds AI-powered applications, often integrating pretrained models and LLMs.",
+    "postings_count": 39,
+    "salary_stats": {
+      "count": 30,
+      "min": 120000,
+      "p25": 700000,
+      "median": 1750000,
+      "p75": 3600000,
+      "max": 6000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "Delhi"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Cucumber Consultants",
+      "Capgemini",
+      "BigRio",
+      "Blue Yonder"
+    ],
+    "skills": [
+      {
+        "skill_id": "S062",
+        "name": "Large Language Models",
+        "category": "AI & NLP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S075",
+        "name": "Microsoft Azure",
+        "category": "Cloud",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S063",
+        "name": "Retrieval-Augmented Generation",
+        "category": "AI & NLP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S077",
+        "name": "Google Cloud Platform",
+        "category": "Cloud",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S078",
+        "name": "Docker",
+        "category": "DevOps",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S064",
+        "name": "Prompt Engineering",
+        "category": "AI & NLP",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S070",
+        "name": "GitHub",
+        "category": "Software Tools",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R015",
+    "title": "Analytics Engineer",
+    "role_family": "Data & Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Builds clean, tested, analysis-ready data models between raw data and BI users.",
+    "postings_count": 4,
+    "salary_stats": {
+      "count": 3,
+      "min": 750000,
+      "p25": 750000,
+      "median": 850000,
+      "p75": 1875000,
+      "max": 1875000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad",
+      "Gurugram",
+      "Bengaluru"
+    ],
+    "sample_companies": [
+      "The Wells Fargo Foundation",
+      "Mitratech India",
+      "NeoGenCode Technologies Pvt Ltd",
+      "PwC India"
+    ],
+    "skills": [
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S004",
+        "name": "Tableau",
+        "category": "BI & Visualization",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S020",
+        "name": "Data Modeling",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S023",
+        "name": "Looker",
+        "category": "BI & Visualization",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S066",
+        "name": "Data Storytelling",
+        "category": "Business & BI",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S094",
+        "name": "Data Warehousing",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S095",
+        "name": "Apache Spark",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S096",
+        "name": "dbt",
+        "category": "Data Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R016",
+    "title": "Data Engineer",
+    "role_family": "Data & Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Designs and maintains data pipelines and infrastructure for storage and processing.",
+    "postings_count": 164,
+    "salary_stats": {
+      "count": 136,
+      "min": 75000,
+      "p25": 800000,
+      "median": 1450000,
+      "p75": 2100000,
+      "max": 6720000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Pune",
+      "Hyderabad",
+      "Mumbai",
+      "Gurugram"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Wissen Technology",
+      "E4 Software Services",
+      "CareerNet Technologies Private Limited",
+      "Pluginlive"
+    ],
+    "skills": [
+      {
+        "skill_id": "S019",
+        "name": "ETL",
+        "category": "Data Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 18
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 17
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 15
+      },
+      {
+        "skill_id": "S095",
+        "name": "Apache Spark",
+        "category": "Data Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 14
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.95,
+        "corpus_mentions": 11
+      },
+      {
+        "skill_id": "S075",
+        "name": "Microsoft Azure",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.95,
+        "corpus_mentions": 11
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.95,
+        "corpus_mentions": 11
+      },
+      {
+        "skill_id": "S020",
+        "name": "Data Modeling",
+        "category": "Data Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S094",
+        "name": "Data Warehousing",
+        "category": "Data Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S077",
+        "name": "Google Cloud Platform",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S097",
+        "name": "Snowflake",
+        "category": "Data Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      }
+    ]
+  },
+  {
+    "role_id": "R017",
+    "title": "Database Developer",
+    "role_family": "Data & Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Designs, programs and tunes databases, schemas and stored procedures.",
+    "postings_count": 19,
+    "salary_stats": {
+      "count": 17,
+      "min": 425000,
+      "p25": 650000,
+      "median": 750000,
+      "p75": 1050000,
+      "max": 2500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai",
+      "Noida"
+    ],
+    "sample_companies": [
+      "E4 Software Services",
+      "CGI Information Systems and Management Consultants Private Limited",
+      "Colorgenics Marketing Services Pvt Ltd",
+      "Vagaro",
+      "Talent Triumph Infotech Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R018",
+    "title": "Product Analyst",
+    "role_family": "Product & Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Analyses product usage data to guide product decisions and measure experiments.",
+    "postings_count": 6,
+    "salary_stats": {
+      "count": 6,
+      "min": 450000,
+      "p25": 750000,
+      "median": 1100000,
+      "p75": 1250000,
+      "max": 1250000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad",
+      "Mumbai",
+      "Pune",
+      "Gurugram",
+      "Delhi"
+    ],
+    "sample_companies": [
+      "Tide",
+      "Ketto",
+      "ServiceMax",
+      "HT Media",
+      "Busy Infotech Pvt. Ltd"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R019",
+    "title": "Product Manager",
+    "role_family": "Product & Management",
+    "seniority": "Associate to senior",
+    "definition": "Owns product strategy and roadmap and coordinates cross-functional delivery.",
+    "postings_count": 119,
+    "salary_stats": {
+      "count": 54,
+      "min": 200000,
+      "p25": 950000,
+      "median": 2000000,
+      "p75": 3000000,
+      "max": 8450000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Ahmedabad",
+      "Hyderabad",
+      "Gurugram"
+    ],
+    "sample_companies": [
+      "Albertsons Companies India",
+      "Agoda",
+      "Amazon",
+      "NxtWave",
+      "Zenoti"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 20
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 20
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S118",
+        "name": "Figma / UI-UX Design",
+        "category": "Design",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S016",
+        "name": "A/B Testing",
+        "category": "Experimentation",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S030",
+        "name": "Jira",
+        "category": "Project Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S029",
+        "name": "Scrum",
+        "category": "Project Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      }
+    ]
+  },
+  {
+    "role_id": "R020",
+    "title": "Project Coordinator",
+    "role_family": "Project Management",
+    "seniority": "Entry to senior",
+    "definition": "Supports project managers with scheduling, tracking and communication.",
+    "postings_count": 17,
+    "salary_stats": {
+      "count": 14,
+      "min": 170000,
+      "p25": 325000,
+      "median": 400000,
+      "p75": 750000,
+      "max": 1750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Indore",
+      "Ahmedabad",
+      "Pune",
+      "Vasai",
+      "Chennai"
+    ],
+    "sample_companies": [
+      "Avalon Solution",
+      "Voyants Solutions",
+      "Hunarstreet Technologies Pvt Ltd",
+      "World Courier",
+      "Moon Technolabs Pvt. Ltd."
+    ],
+    "skills": [
+      {
+        "skill_id": "S025",
+        "name": "Business Analysis",
+        "category": "Business",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S012",
+        "name": "Statistics",
+        "category": "Statistics",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R021",
+    "title": "Project Manager",
+    "role_family": "Project Management",
+    "seniority": "Associate to senior",
+    "definition": "Plans and delivers projects within scope, time and budget.",
+    "postings_count": 103,
+    "salary_stats": {
+      "count": 92,
+      "min": 250000,
+      "p25": 700000,
+      "median": 1100000,
+      "p75": 1500000,
+      "max": 7250000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "TurnerTownsend",
+      "**********",
+      "Sanofi",
+      "Fastalent Technologies India Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S029",
+        "name": "Scrum",
+        "category": "Project Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S030",
+        "name": "Jira",
+        "category": "Project Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S081",
+        "name": "Salesforce",
+        "category": "CRM & Sales",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S088",
+        "name": "Inventory Optimization",
+        "category": "Operations",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R022",
+    "title": "Management Consultant",
+    "role_family": "Consulting",
+    "seniority": "Entry to senior",
+    "definition": "Advises organisations on strategy, operations and performance problems.",
+    "postings_count": 3,
+    "salary_stats": {
+      "count": 2,
+      "min": 800000,
+      "p25": 800000,
+      "median": 1950000,
+      "p75": 1950000,
+      "max": 1950000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "sample_companies": [
+      "Ladera Technology",
+      "39 SOLUTIONS LLP",
+      "Plante Moran"
+    ],
+    "skills": [
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S035",
+        "name": "Critical Thinking",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S111",
+        "name": "Business Development",
+        "category": "Sales",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R023",
+    "title": "Strategy Analyst",
+    "role_family": "Strategy",
+    "seniority": "Entry to senior",
+    "definition": "Researches markets and options to support corporate strategy decisions.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 550000,
+      "p25": 550000,
+      "median": 550000,
+      "p75": 550000,
+      "max": 550000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Mumbai"
+    ],
+    "sample_companies": [
+      "Mavenbmc Faridabad"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R024",
+    "title": "Operations Analyst",
+    "role_family": "Operations",
+    "seniority": "Entry to senior",
+    "definition": "Analyses operational data and processes to improve efficiency and cost.",
+    "postings_count": 2,
+    "salary_stats": {
+      "count": 2,
+      "min": 275000,
+      "p25": 275000,
+      "median": 350000,
+      "p75": 350000,
+      "max": 350000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Pune"
+    ],
+    "sample_companies": [
+      "amdocs",
+      "Global Payments"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R025",
+    "title": "Supply Chain Analyst",
+    "role_family": "Operations",
+    "seniority": "Entry to senior",
+    "definition": "Analyses procurement, logistics and inventory data to improve supply-chain performance.",
+    "postings_count": 1,
+    "salary_stats": null,
+    "top_cities": [
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Actylis"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R026",
+    "title": "Marketing Analyst",
+    "role_family": "Marketing",
+    "seniority": "Entry to senior",
+    "definition": "Measures and analyses marketing performance and customer data.",
+    "postings_count": 2,
+    "salary_stats": {
+      "count": 2,
+      "min": 350000,
+      "p25": 350000,
+      "median": 400000,
+      "p75": 400000,
+      "max": 400000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Pune"
+    ],
+    "sample_companies": [
+      "Opengov",
+      "Busibud Solutions Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R027",
+    "title": "Digital Marketing Analyst",
+    "role_family": "Marketing",
+    "seniority": "Entry to senior",
+    "definition": "Analyses online channel and campaign performance (search, social, email).",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R028",
+    "title": "SEO Analyst",
+    "role_family": "Marketing",
+    "seniority": "Entry to senior",
+    "definition": "Analyses and improves organic search performance of websites.",
+    "postings_count": 2,
+    "salary_stats": {
+      "count": 2,
+      "min": 300000,
+      "p25": 300000,
+      "median": 600000,
+      "p75": 600000,
+      "max": 600000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Ahmedabad",
+      "Madurai"
+    ],
+    "sample_companies": [
+      "Addis Infotech",
+      "RadicalStart Infolab Private Limted"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R029",
+    "title": "Customer Insights Analyst",
+    "role_family": "Marketing & Research",
+    "seniority": "Entry to senior",
+    "definition": "Analyses customer data and research to explain behaviour and needs.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R030",
+    "title": "Sales Operations Analyst",
+    "role_family": "Sales & Operations",
+    "seniority": "Entry to senior",
+    "definition": "Supports sales teams with pipeline reporting, territory and process analytics.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 1350000,
+      "p25": 1350000,
+      "median": 1350000,
+      "p75": 1350000,
+      "max": 1350000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Chennai"
+    ],
+    "sample_companies": [
+      "BigRio"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R031",
+    "title": "Sales Analyst",
+    "role_family": "Sales & Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Analyses sales data to track performance and identify growth opportunities.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R032",
+    "title": "HR Analyst",
+    "role_family": "Human Resources",
+    "seniority": "Entry to senior",
+    "definition": "Analyses HR data and processes to support workforce decisions.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R033",
+    "title": "People Analytics Analyst",
+    "role_family": "Human Resources",
+    "seniority": "Entry to senior",
+    "definition": "Applies statistical analysis to workforce data such as attrition, engagement and performance.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R034",
+    "title": "Talent Acquisition Analyst",
+    "role_family": "Human Resources",
+    "seniority": "Entry to senior",
+    "definition": "Analyses recruiting funnels and hiring metrics.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 500000,
+      "p25": 500000,
+      "median": 500000,
+      "p75": 500000,
+      "max": 500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "Omnicorm Media Group"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R035",
+    "title": "Research Analyst",
+    "role_family": "Research",
+    "seniority": "Entry to senior",
+    "definition": "Gathers and analyses information on a subject area to inform decisions.",
+    "postings_count": 11,
+    "salary_stats": {
+      "count": 9,
+      "min": 360000,
+      "p25": 550000,
+      "median": 1200000,
+      "p75": 2000000,
+      "max": 8500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Delhi",
+      "Mumbai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Insight Alpha Research and Solutions Private Limited",
+      "Quest Business Solution",
+      "WRI India",
+      "FactSet",
+      "Ardor Talent Solutions Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S025",
+        "name": "Business Analysis",
+        "category": "Business",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S035",
+        "name": "Critical Thinking",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S040",
+        "name": "Corporate Finance",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S041",
+        "name": "Valuation",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S044",
+        "name": "Investment Research",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S111",
+        "name": "Business Development",
+        "category": "Sales",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R036",
+    "title": "Market Research Analyst",
+    "role_family": "Research & Marketing",
+    "seniority": "Entry to senior",
+    "definition": "Studies markets, competitors and consumers through surveys and data analysis.",
+    "postings_count": 4,
+    "salary_stats": {
+      "count": 4,
+      "min": 300000,
+      "p25": 350000,
+      "median": 525000,
+      "p75": 2500000,
+      "max": 2500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Noida",
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Aatish Management Consultants OPC Pvt Ltd",
+      "Dev Solutions",
+      "Devploy Technologies",
+      "VortexWeb"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R037",
+    "title": "Economist / Economic Analyst",
+    "role_family": "Economics",
+    "seniority": "Entry to senior",
+    "definition": "Analyses economic data and trends and produces forecasts and policy or business insights.",
+    "postings_count": 1,
+    "salary_stats": {
+      "count": 1,
+      "min": 450000,
+      "p25": 450000,
+      "median": 450000,
+      "p75": 450000,
+      "max": 450000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "Voyants Solutions"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R038",
+    "title": "Quantitative Analyst",
+    "role_family": "Finance & Quant",
+    "seniority": "Entry to senior",
+    "definition": "Develops mathematical and statistical models for pricing, risk and trading.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R039",
+    "title": "Portfolio Analyst",
+    "role_family": "Investments",
+    "seniority": "Entry to senior",
+    "definition": "Analyses portfolio performance, allocation and risk.",
+    "postings_count": 3,
+    "salary_stats": {
+      "count": 3,
+      "min": 300000,
+      "p25": 300000,
+      "median": 920500,
+      "p75": 2000000,
+      "max": 2000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Gurugram",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "sample_companies": [
+      "Client Associates",
+      "Sun Life",
+      "First Tek, Inc."
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R040",
+    "title": "Compliance Analyst",
+    "role_family": "Risk & Compliance",
+    "seniority": "Entry to senior",
+    "definition": "Monitors adherence to laws, regulations and internal policies.",
+    "postings_count": 5,
+    "salary_stats": {
+      "count": 5,
+      "min": 450000,
+      "p25": 550000,
+      "median": 950000,
+      "p75": 950000,
+      "max": 1050000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Pune",
+      "Delhi",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "Fibe",
+      "Insight Alpha Research and Solutions Private Limited",
+      "ServiceMax",
+      "Mufg Pension Market Services"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R041",
+    "title": "Internal Audit Analyst",
+    "role_family": "Audit & Risk",
+    "seniority": "Entry to senior",
+    "definition": "Evaluates internal controls and processes and reports on risk and compliance.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R042",
+    "title": "Accountant",
+    "role_family": "Accounting",
+    "seniority": "Entry to senior",
+    "definition": "Prepares and maintains financial records, reconciliations and statutory reports.",
+    "postings_count": 110,
+    "salary_stats": {
+      "count": 92,
+      "min": 75000,
+      "p25": 275000,
+      "median": 425000,
+      "p75": 850000,
+      "max": 3750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Navi Mumbai",
+      "Delhi",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "sample_companies": [
+      "**********",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Career Path Solution Hiring For Client Company",
+      "Rayvat Outsourcing",
+      "Talent Loans Technologies Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S127",
+        "name": "Financial Reporting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S046",
+        "name": "Excel Financial Functions",
+        "category": "Finance & BI",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S120",
+        "name": "SAP",
+        "category": "ERP",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S035",
+        "name": "Critical Thinking",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S040",
+        "name": "Corporate Finance",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S114",
+        "name": "Recruitment",
+        "category": "HR",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R043",
+    "title": "Business Development Analyst",
+    "role_family": "Business Development",
+    "seniority": "Entry to senior",
+    "definition": "Researches opportunities, partners and markets to support growth deals.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S025",
+        "name": "Business Analysis",
+        "category": "Business",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S026",
+        "name": "Requirements Gathering",
+        "category": "Business",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R044",
+    "title": "Revenue Operations Analyst",
+    "role_family": "Sales & Operations",
+    "seniority": "Entry to senior",
+    "definition": "Aligns sales, marketing and customer-success data and processes to drive revenue.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R045",
+    "title": "Pricing Analyst",
+    "role_family": "Commercial Analytics",
+    "seniority": "Entry to senior",
+    "definition": "Analyses costs, demand and competitors to recommend pricing.",
+    "postings_count": 2,
+    "salary_stats": {
+      "count": 2,
+      "min": 1500000,
+      "p25": 1500000,
+      "median": 1850000,
+      "p75": 1850000,
+      "max": 1850000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "Milestone Technologies"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R046",
+    "title": "Fraud Analyst",
+    "role_family": "Risk & Fintech",
+    "seniority": "Entry to senior",
+    "definition": "Detects and investigates fraudulent transactions and patterns.",
+    "postings_count": 2,
+    "salary_stats": {
+      "count": 2,
+      "min": 175000,
+      "p25": 175000,
+      "median": 275000,
+      "p75": 275000,
+      "max": 275000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Thane"
+    ],
+    "sample_companies": [
+      "Firstsource",
+      "I GROWH SERVICES LLP"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R047",
+    "title": "FinTech Analyst",
+    "role_family": "Finance & Technology",
+    "seniority": "Entry to senior",
+    "definition": "Analyses financial-technology products, payments and lending data.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S038",
+        "name": "Financial Statement Analysis",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S039",
+        "name": "Accounting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S042",
+        "name": "Budgeting & Forecasting",
+        "category": "Finance",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R048",
+    "title": "Product Operations Analyst",
+    "role_family": "Product & Operations",
+    "seniority": "Entry to senior",
+    "definition": "Supports product teams with process, tooling and operational analytics.",
+    "postings_count": 0,
+    "salary_stats": null,
+    "top_cities": [],
+    "sample_companies": [],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R049",
+    "title": "Customer Success Operations Analyst",
+    "role_family": "Customer Operations",
+    "seniority": "Entry to senior",
+    "definition": "Analyses customer-health, retention and support data and improves CS processes.",
+    "postings_count": 1,
+    "salary_stats": null,
+    "top_cities": [
+      "Bengaluru"
+    ],
+    "sample_companies": [
+      "Blue Yonder"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R050",
+    "title": "Reporting Analyst",
+    "role_family": "Data & Reporting",
+    "seniority": "Entry to senior",
+    "definition": "Produces recurring operational and management reports and ensures data accuracy.",
+    "postings_count": 5,
+    "salary_stats": {
+      "count": 5,
+      "min": 150000,
+      "p25": 375000,
+      "median": 575000,
+      "p75": 725000,
+      "max": 950000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Delhi"
+    ],
+    "sample_companies": [
+      "The Wells Fargo Foundation",
+      "Firstsource",
+      "Mufg Pension Market Services",
+      "Chase Bank",
+      "Gallagher Service Center LLP"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S003",
+        "name": "Power BI",
+        "category": "BI & Visualization",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.8,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R051",
+    "title": "Mobile Developer",
+    "role_family": "Software Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Builds mobile applications for iOS and Android.",
+    "postings_count": 179,
+    "salary_stats": {
+      "count": 142,
+      "min": 78000,
+      "p25": 450000,
+      "median": 700000,
+      "p75": 1200000,
+      "max": 5500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Gurugram",
+      "Ahmedabad",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Addis Infotech",
+      "Programming Com",
+      "Vintronics Consulting",
+      "Jio Tesseract"
+    ],
+    "skills": [
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 18
+      },
+      {
+        "skill_id": "S069",
+        "name": "Git",
+        "category": "Software Tools",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 13
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 13
+      },
+      {
+        "skill_id": "S105",
+        "name": "Java",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.95,
+        "corpus_mentions": 11
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.95,
+        "corpus_mentions": 11
+      },
+      {
+        "skill_id": "S118",
+        "name": "Figma / UI-UX Design",
+        "category": "Design",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S072",
+        "name": "JSON",
+        "category": "Data Formats",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S103",
+        "name": "React",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S070",
+        "name": "GitHub",
+        "category": "Software Tools",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S102",
+        "name": "JavaScript",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      }
+    ]
+  },
+  {
+    "role_id": "R052",
+    "title": "Frontend Developer",
+    "role_family": "Software Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Builds the user-facing part of web applications.",
+    "postings_count": 201,
+    "salary_stats": {
+      "count": 99,
+      "min": 150000,
+      "p25": 600000,
+      "median": 1050000,
+      "p75": 2150000,
+      "max": 12000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "Pune"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Wissen Technology",
+      "Capgemini",
+      "Valuecoders",
+      "Virtusa"
+    ],
+    "skills": [
+      {
+        "skill_id": "S102",
+        "name": "JavaScript",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 78
+      },
+      {
+        "skill_id": "S103",
+        "name": "React",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 73
+      },
+      {
+        "skill_id": "S104",
+        "name": "HTML/CSS",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 71
+      },
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 48
+      },
+      {
+        "skill_id": "S110",
+        "name": "TypeScript",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 41
+      },
+      {
+        "skill_id": "S118",
+        "name": "Figma / UI-UX Design",
+        "category": "Design",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 40
+      },
+      {
+        "skill_id": "S112",
+        "name": "Angular",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 33
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 31
+      },
+      {
+        "skill_id": "S069",
+        "name": "Git",
+        "category": "Software Tools",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 29
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 28
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 26
+      }
+    ]
+  },
+  {
+    "role_id": "R053",
+    "title": "Full Stack Developer",
+    "role_family": "Software Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Builds both front-end and back-end parts of applications.",
+    "postings_count": 405,
+    "salary_stats": {
+      "count": 299,
+      "min": 48000,
+      "p25": 600000,
+      "median": 950000,
+      "p75": 1800000,
+      "max": 13200000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Pune",
+      "Mumbai"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "The Wells Fargo Foundation",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Capgemini",
+      "Wissen Technology"
+    ],
+    "skills": [
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 55
+      },
+      {
+        "skill_id": "S102",
+        "name": "JavaScript",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 55
+      },
+      {
+        "skill_id": "S103",
+        "name": "React",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 54
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 51
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 43
+      },
+      {
+        "skill_id": "S112",
+        "name": "Angular",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 40
+      },
+      {
+        "skill_id": "S104",
+        "name": "HTML/CSS",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 39
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 36
+      },
+      {
+        "skill_id": "S105",
+        "name": "Java",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 34
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 32
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 32
+      },
+      {
+        "skill_id": "S116",
+        "name": "Node.js",
+        "category": "Web Development",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 32
+      }
+    ]
+  },
+  {
+    "role_id": "R054",
+    "title": "Backend Developer",
+    "role_family": "Software Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Builds server-side logic, APIs and databases.",
+    "postings_count": 566,
+    "salary_stats": {
+      "count": 452,
+      "min": 48000,
+      "p25": 600000,
+      "median": 1000000,
+      "p75": 1750000,
+      "max": 21000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Chennai",
+      "Gurugram"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Wissen Technology",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Programming Com",
+      "Dev Solutions"
+    ],
+    "skills": [
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 58
+      },
+      {
+        "skill_id": "S105",
+        "name": "Java",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 50
+      },
+      {
+        "skill_id": "S109",
+        "name": "Microservices",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 50
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 48
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 47
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 39
+      },
+      {
+        "skill_id": "S108",
+        "name": "Kubernetes",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 36
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S078",
+        "name": "Docker",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S073",
+        "name": "PostgreSQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 34
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 31
+      }
+    ]
+  },
+  {
+    "role_id": "R055",
+    "title": "DevOps / Cloud Engineer",
+    "role_family": "Cloud & DevOps",
+    "seniority": "Entry to senior",
+    "definition": "Builds and operates cloud infrastructure and delivery pipelines.",
+    "postings_count": 256,
+    "salary_stats": {
+      "count": 180,
+      "min": 75000,
+      "p25": 600000,
+      "median": 975000,
+      "p75": 1800000,
+      "max": 7750000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Pune",
+      "Hyderabad",
+      "Gurugram",
+      "Chennai"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "Zenoti",
+      "Capgemini",
+      "**********",
+      "Infra360 Solutions Pvt Ltd"
+    ],
+    "skills": [
+      {
+        "skill_id": "S107",
+        "name": "DevOps",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 60
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 53
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 46
+      },
+      {
+        "skill_id": "S108",
+        "name": "Kubernetes",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 44
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 42
+      },
+      {
+        "skill_id": "S123",
+        "name": "Terraform",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 42
+      },
+      {
+        "skill_id": "S078",
+        "name": "Docker",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 38
+      },
+      {
+        "skill_id": "S075",
+        "name": "Microsoft Azure",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 37
+      },
+      {
+        "skill_id": "S079",
+        "name": "Linux",
+        "category": "Systems",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 27
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 26
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 24
+      },
+      {
+        "skill_id": "S077",
+        "name": "Google Cloud Platform",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 22
+      }
+    ]
+  },
+  {
+    "role_id": "R056",
+    "title": "QA / Test Engineer",
+    "role_family": "Quality Assurance",
+    "seniority": "Entry to senior",
+    "definition": "Tests software to find defects and verify quality.",
+    "postings_count": 321,
+    "salary_stats": {
+      "count": 295,
+      "min": 54000,
+      "p25": 500000,
+      "median": 750000,
+      "p75": 1250000,
+      "max": 11675000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Pune",
+      "Gurugram",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "sample_companies": [
+      "NeoGenCode Technologies Pvt Ltd",
+      "**********",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Moolya Software Testing Private Limited",
+      "Alight"
+    ],
+    "skills": [
+      {
+        "skill_id": "S128",
+        "name": "Test Automation",
+        "category": "Quality Assurance",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S105",
+        "name": "Java",
+        "category": "Programming",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S030",
+        "name": "Jira",
+        "category": "Project Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S070",
+        "name": "GitHub",
+        "category": "Software Tools",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S102",
+        "name": "JavaScript",
+        "category": "Programming",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      }
+    ]
+  },
+  {
+    "role_id": "R057",
+    "title": "Software Engineer",
+    "role_family": "Software Engineering",
+    "seniority": "Entry to senior",
+    "definition": "Designs, builds and maintains software systems.",
+    "postings_count": 529,
+    "salary_stats": {
+      "count": 372,
+      "min": 48000,
+      "p25": 550000,
+      "median": 800000,
+      "p75": 1662500,
+      "max": 5698000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "sample_companies": [
+      "The Wells Fargo Foundation",
+      "Accenture in India",
+      "CareerNet Technologies Private Limited",
+      "Gruve",
+      "Chase Bank"
+    ],
+    "skills": [
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 62
+      },
+      {
+        "skill_id": "S105",
+        "name": "Java",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 59
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 56
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 47
+      },
+      {
+        "skill_id": "S028",
+        "name": "Agile",
+        "category": "Project Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 44
+      },
+      {
+        "skill_id": "S101",
+        "name": "CI/CD",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 44
+      },
+      {
+        "skill_id": "S071",
+        "name": "REST APIs",
+        "category": "Software Engineering",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 42
+      },
+      {
+        "skill_id": "S076",
+        "name": "Amazon Web Services",
+        "category": "Cloud",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S001",
+        "name": "SQL",
+        "category": "Database & Querying",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 35
+      },
+      {
+        "skill_id": "S069",
+        "name": "Git",
+        "category": "Software Tools",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 34
+      },
+      {
+        "skill_id": "S102",
+        "name": "JavaScript",
+        "category": "Programming",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 34
+      },
+      {
+        "skill_id": "S078",
+        "name": "Docker",
+        "category": "DevOps",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 30
+      }
+    ]
+  },
+  {
+    "role_id": "R058",
+    "title": "Business Development Executive / Manager",
+    "role_family": "Sales & Business Development",
+    "seniority": "Entry to senior",
+    "definition": "Finds and develops new clients, partners and revenue opportunities.",
+    "postings_count": 394,
+    "salary_stats": {
+      "count": 338,
+      "min": 39000,
+      "p25": 258000,
+      "median": 400000,
+      "p75": 650000,
+      "max": 3250000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Ahmedabad",
+      "Hyderabad",
+      "Pune"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "Kapstag Workforce Solutions Private Limited",
+      "Easy Trip Planners Limited",
+      "**********",
+      "Niyukti Management Consultants"
+    ],
+    "skills": [
+      {
+        "skill_id": "S111",
+        "name": "Business Development",
+        "category": "Sales",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 38
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 27
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 25
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S081",
+        "name": "Salesforce",
+        "category": "CRM & Sales",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S113",
+        "name": "Customer Service",
+        "category": "Customer Operations",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S122",
+        "name": "Risk Management",
+        "category": "Governance & Risk",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S026",
+        "name": "Requirements Gathering",
+        "category": "Business",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R059",
+    "title": "Sales Executive / Manager",
+    "role_family": "Sales & Business Development",
+    "seniority": "Entry to senior",
+    "definition": "Sells products or services and manages customer accounts.",
+    "postings_count": 660,
+    "salary_stats": {
+      "count": 599,
+      "min": 64000,
+      "p25": 275000,
+      "median": 415000,
+      "p75": 700000,
+      "max": 4250000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "Delhi",
+      "Pune"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "Tableau Software",
+      "Haleon",
+      "Smfg India Credit Company",
+      "**********"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 21
+      },
+      {
+        "skill_id": "S111",
+        "name": "Business Development",
+        "category": "Sales",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 19
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 17
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 12
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S113",
+        "name": "Customer Service",
+        "category": "Customer Operations",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S081",
+        "name": "Salesforce",
+        "category": "CRM & Sales",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      }
+    ]
+  },
+  {
+    "role_id": "R060",
+    "title": "Digital Marketing Executive",
+    "role_family": "Marketing",
+    "seniority": "Entry to senior",
+    "definition": "Plans and runs online marketing campaigns.",
+    "postings_count": 406,
+    "salary_stats": {
+      "count": 324,
+      "min": 30000,
+      "p25": 205000,
+      "median": 348600,
+      "p75": 550000,
+      "max": 6350000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Mumbai",
+      "Bengaluru",
+      "Ahmedabad",
+      "Pune",
+      "Hyderabad"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "retronai",
+      "Avalon Solution",
+      "Budventure Technologies Pvt Ltd",
+      "Valuecoders"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 37
+      },
+      {
+        "skill_id": "S129",
+        "name": "Social Media Marketing",
+        "category": "Marketing",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 30
+      },
+      {
+        "skill_id": "S084",
+        "name": "SEO",
+        "category": "Marketing",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 28
+      },
+      {
+        "skill_id": "S024",
+        "name": "Google Analytics",
+        "category": "Marketing Analytics",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 27
+      },
+      {
+        "skill_id": "S016",
+        "name": "A/B Testing",
+        "category": "Experimentation",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 21
+      },
+      {
+        "skill_id": "S131",
+        "name": "Content Writing",
+        "category": "Marketing",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 16
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.9,
+        "corpus_mentions": 10
+      },
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      }
+    ]
+  },
+  {
+    "role_id": "R061",
+    "title": "Graphic / UI-UX Designer",
+    "role_family": "Design",
+    "seniority": "Entry to senior",
+    "definition": "Creates visual and interface designs.",
+    "postings_count": 201,
+    "salary_stats": {
+      "count": 197,
+      "min": 30000,
+      "p25": 270000,
+      "median": 400000,
+      "p75": 600000,
+      "max": 5500000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Pune",
+      "Delhi",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "1HResource Solutions",
+      "Avalon Solution",
+      "Omnicorm Media Group",
+      "NeoGenCode Technologies Pvt Ltd",
+      "Maxgen Technologies Private Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S104",
+        "name": "HTML/CSS",
+        "category": "Web Development",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S103",
+        "name": "React",
+        "category": "Web Development",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S112",
+        "name": "Angular",
+        "category": "Web Development",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R062",
+    "title": "Customer Support Executive",
+    "role_family": "Customer Operations",
+    "seniority": "Entry to senior",
+    "definition": "Assists customers and resolves their queries.",
+    "postings_count": 493,
+    "salary_stats": {
+      "count": 460,
+      "min": 42000,
+      "p25": 225000,
+      "median": 300000,
+      "p75": 425000,
+      "max": 3250000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Gurugram"
+    ],
+    "sample_companies": [
+      "**********",
+      "Varda HR LLP",
+      "Teleperformance Global Services Private Limited",
+      "Vibrantzz Management Services",
+      "Mitratech India"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 13
+      },
+      {
+        "skill_id": "S113",
+        "name": "Customer Service",
+        "category": "Customer Operations",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 13
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.75,
+        "corpus_mentions": 7
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S005",
+        "name": "Python",
+        "category": "Programming",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S031",
+        "name": "Project Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S081",
+        "name": "Salesforce",
+        "category": "CRM & Sales",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S079",
+        "name": "Linux",
+        "category": "Systems",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S123",
+        "name": "Terraform",
+        "category": "DevOps",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S120",
+        "name": "SAP",
+        "category": "ERP",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  },
+  {
+    "role_id": "R063",
+    "title": "HR / Recruiter",
+    "role_family": "Human Resources",
+    "seniority": "Entry to senior",
+    "definition": "Handles recruitment and general HR operations.",
+    "postings_count": 393,
+    "salary_stats": {
+      "count": 313,
+      "min": 60000,
+      "p25": 235000,
+      "median": 375000,
+      "p75": 600000,
+      "max": 8000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "Gurugram",
+      "Noida"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "**********",
+      "Incruiter",
+      "Sygna LLC",
+      "Sanofi"
+    ],
+    "skills": [
+      {
+        "skill_id": "S114",
+        "name": "Recruitment",
+        "category": "HR",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 59
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 40
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 24
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 20
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 13
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.8,
+        "corpus_mentions": 8
+      },
+      {
+        "skill_id": "S070",
+        "name": "GitHub",
+        "category": "Software Tools",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S107",
+        "name": "DevOps",
+        "category": "DevOps",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S049",
+        "name": "Machine Learning",
+        "category": "AI & Machine Learning",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S120",
+        "name": "SAP",
+        "category": "ERP",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S129",
+        "name": "Social Media Marketing",
+        "category": "Marketing",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      }
+    ]
+  },
+  {
+    "role_id": "R064",
+    "title": "Relationship Manager",
+    "role_family": "Sales & Business Development",
+    "seniority": "Entry to senior",
+    "definition": "Manages client relationships, typically in banking or financial services.",
+    "postings_count": 130,
+    "salary_stats": {
+      "count": 107,
+      "min": 175000,
+      "p25": 350000,
+      "median": 450000,
+      "p75": 575000,
+      "max": 5000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Hyderabad",
+      "Mumbai",
+      "Bengaluru",
+      "Delhi",
+      "Ahmedabad"
+    ],
+    "sample_companies": [
+      "Hunarstreet Technologies Pvt Ltd",
+      "Sun Life",
+      "Niva Bupa Health Insurance",
+      "Kotak Life",
+      "Smfg India Credit Company"
+    ],
+    "skills": [
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 17
+      },
+      {
+        "skill_id": "S113",
+        "name": "Customer Service",
+        "category": "Customer Operations",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 15
+      },
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 0.85,
+        "corpus_mentions": 9
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S127",
+        "name": "Financial Reporting",
+        "category": "Finance",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      },
+      {
+        "skill_id": "S117",
+        "name": "Regulatory Compliance",
+        "category": "Governance & Risk",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.45,
+        "corpus_mentions": 1
+      }
+    ]
+  },
+  {
+    "role_id": "R065",
+    "title": "Accounts Executive",
+    "role_family": "Accounting",
+    "seniority": "Entry to senior",
+    "definition": "Handles day-to-day accounting and finance operations.",
+    "postings_count": 166,
+    "salary_stats": {
+      "count": 127,
+      "min": 155000,
+      "p25": 325000,
+      "median": 500000,
+      "p75": 750000,
+      "max": 8000000,
+      "currency": "INR",
+      "period": "Annual (inferred from Fliar dataset)"
+    },
+    "top_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Pune",
+      "Delhi",
+      "Navi Mumbai"
+    ],
+    "sample_companies": [
+      "Locuz",
+      "Hunarstreet Technologies Pvt Ltd",
+      "Airtel",
+      "Covelense Digital Solutions Private Limited",
+      "Pidilite Industries Limited"
+    ],
+    "skills": [
+      {
+        "skill_id": "S033",
+        "name": "Communication",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 20
+      },
+      {
+        "skill_id": "S106",
+        "name": "Negotiation",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 14
+      },
+      {
+        "skill_id": "S036",
+        "name": "Problem Solving",
+        "category": "Soft Skills",
+        "importance": "Critical",
+        "target_proficiency": 5,
+        "weight": 1.0,
+        "corpus_mentions": 14
+      },
+      {
+        "skill_id": "S032",
+        "name": "Stakeholder Management",
+        "category": "Management",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.7,
+        "corpus_mentions": 6
+      },
+      {
+        "skill_id": "S113",
+        "name": "Customer Service",
+        "category": "Customer Operations",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S002",
+        "name": "Microsoft Excel",
+        "category": "BI & Productivity",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S034",
+        "name": "Presentation Skills",
+        "category": "Soft Skills",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S111",
+        "name": "Business Development",
+        "category": "Sales",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.65,
+        "corpus_mentions": 5
+      },
+      {
+        "skill_id": "S083",
+        "name": "Market Research",
+        "category": "Marketing",
+        "importance": "Required",
+        "target_proficiency": 4,
+        "weight": 0.6,
+        "corpus_mentions": 4
+      },
+      {
+        "skill_id": "S099",
+        "name": "PowerPoint",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.55,
+        "corpus_mentions": 3
+      },
+      {
+        "skill_id": "S081",
+        "name": "Salesforce",
+        "category": "CRM & Sales",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      },
+      {
+        "skill_id": "S115",
+        "name": "Microsoft Office",
+        "category": "Productivity",
+        "importance": "Preferred",
+        "target_proficiency": 3,
+        "weight": 0.5,
+        "corpus_mentions": 2
+      }
+    ]
+  }
+]
