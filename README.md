@@ -14,6 +14,18 @@
 **SkillRadar** is a functional career exploration, simulation, and skill-development platform designed specifically for college students. Set inside a 3D walkable spaceship hub inspired by crewmate sci-fi games (custom characters, environments, neon consoles, and UI), students navigate between rooms or switch to a full 2D console mode to assess skills, simulate enterprise jobs, identify skill gaps, and follow personalized learning roadmaps grounded in real labor market datasets.
 
 ---
+## 🌐 Live Demo
+
+**Explore SkillRadar Station OS v2.6:** [Launch SkillRadar Career Compass](https://skillradar-henna.vercel.app/)
+
+Experience an interactive, AI-powered career exploration platform that helps college students explore career paths, assess their skills, identify skill gaps, simulate real-world job tasks, and build personalized learning roadmaps.
+
+- **Live Website:** https://skillradar-henna.vercel.app/
+- **Source Code:** https://github.com/jaanvi131313-collab/SkillRadar
+- **Platform:** React, TypeScript, Three.js, Tailwind CSS
+- **Core Features:** 3D Career Hub, Skill Assessment, Role Matching, Job Simulations, AI Career Advisor, and Skill Development Roadmaps
+<img width="957" height="497" alt="Screenshot 2026-10-26 233848" src="https://github.com/user-attachments/assets/dfef4883-71d4-4103-ad41-7fe14dd3137b" />
+
 
 ## 📊 Dataset Inspection & Provenance Report
 
@@ -62,7 +74,29 @@ SkillRadar replicates the visual hierarchy of the reference interface:
   - Native Web Audio API synthesizer for sci-fi terminal beeps and milestone chimes without external audio assets.
 
 ---
+## 🤖 Station AI Career Advisor
 
+SkillRadar integrates an AI-powered career assistant that helps students interpret career analytics and make informed skill-development decisions. The assistant provides conversational guidance grounded in the SkillRadar dataset rather than relying solely on generic career advice.
+<img width="564" height="488" alt="Screenshot 2026-10-27 161624" src="https://github.com/user-attachments/assets/2cd3bfd1-f205-444a-8628-e9ac9b858470" />
+
+### Key Capabilities
+
+- **Dataset-Grounded Answers:** Responds to career questions using the available SkillRadar dataset and its documented information.
+- **Skill Requirement Analysis:** Explains the important skills associated with specific roles, including Data Analyst, Business Analyst, and other supported careers.
+- **Role Match Interpretation:** Helps students understand the weighted Role Fit score, skill alignment, and the difference between demonstrated skills and target requirements.
+- **Salary & Career Comparisons:** Supports questions about available salary benchmarks and comparisons between roles where the relevant dataset information exists.
+- **Skill-Gap Guidance:** Helps students understand which skills require improvement and how these gaps relate to their target career.
+- **Interactive Career Exploration:** Allows students to ask follow-up questions through a conversational chat interface.
+
+### Responsible AI & Data Grounding
+
+The assistant is designed to support career exploration, not to guarantee employment outcomes. Role Fit scores indicate alignment with modeled job requirements and should not be interpreted as probabilities of getting hired. Responses about salaries, skills, and career requirements depend on the coverage and quality of the underlying dataset.
+
+**Example questions:**
+- What are the top skills for a Data Analyst in the dataset?
+- How should I interpret my weighted Role Fit score?
+- How does the Data Analyst role compare with the Financial Analyst role?
+- Which skills should I improve for my target career?
 ## 🏢 Seven Rooms & Workflows
 
 1. **Station Lobby (Airlock Alpha):**
@@ -156,3 +190,64 @@ npx netlify deploy --prod
 - Fliar BI India Salary Benchmarks: CC BY-NC 4.0.
 - LinkedIn Tech Job Postings: Educational research sample.
 - Built for SkillRadar Station OS v2.6.
+
+## 📈 Market Opportunity & Market Sizing — TAM, SAM & SOM
+
+SkillRadar uses a TAM–SAM–SOM framework to illustrate its potential market opportunity in India's higher-education and career-development ecosystem.
+
+The estimates below use a proposed annual licence price of ₹150 per student. They are illustrative planning estimates, not verified revenue forecasts.
+
+### Total Addressable Market (TAM)
+
+**Estimated market size: ₹649.5 crore annually**
+
+TAM represents the broadest potential market, covering approximately 4.33 crore higher-education students in India.
+
+**Calculation:**
+
+4.33 crore students × ₹150 per student per year = ₹649.5 crore.
+
+### Serviceable Available Market (SAM)
+
+**Estimated market size: ₹128.6 crore annually**
+
+SAM narrows the market to the assumed target segment of undergraduate students in Commerce and Engineering streams.
+
+- Undergraduate share assumption: 78.9%
+- Commerce and Engineering share assumption: 25.1%
+- Estimated target audience: approximately 85.8 lakh students
+
+**Calculation:**
+
+85.8 lakh students × ₹150 per student per year ≈ ₹128.6 crore.
+
+### Serviceable Obtainable Market (SOM)
+
+**Estimated market size: ₹1.29 crore annually**
+
+SOM represents an illustrative initial adoption target of approximately 1% of the SAM audience by Year 5.
+
+- Target adoption: approximately 85,751 students
+- Equivalent institutional reach: approximately 107 colleges, assuming around 800 students per college
+- Estimated annual revenue at the assumed licence price: approximately ₹1.29 crore
+
+### SOM Sensitivity Analysis
+
+| Assumed SAM Adoption | Estimated Annual Revenue |
+|---|---:|
+| 0.5% | ₹0.64 crore |
+| 1% | ₹1.29 crore |
+| 2% | ₹2.57 crore |
+
+### Sources & Assumptions
+
+- **Student population:** All India Survey on Higher Education (AISHE), 2021–22, Ministry of Education, Government of India.
+- **Undergraduate share:** AISHE 2020–21, as used in the illustrative model.
+- **Licence price:** Assumed at ₹150 per student per year.
+- **Adoption rate:** Assumed for scenario planning; not based on demonstrated customer acquisition.
+- **Institutional reach:** Approximate, based on an assumed average of 800 students per college.
+- **Scope:** B2C revenue is excluded from this estimate.
+
+**Interpretation:** TAM describes the broad potential market, SAM identifies the segment SkillRadar intends to serve, and SOM estimates a possible share of that segment that the platform could reach over time. These figures depend on the assumptions above and should be validated before being used as commercial forecasts.
+<img width="952" height="511" alt="Screenshot 2026-10-27 161933" src="https://github.com/user-attachments/assets/a719ce9c-4046-4ccf-8b19-25e30327fa08" />
+
