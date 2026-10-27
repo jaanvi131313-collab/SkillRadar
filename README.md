@@ -16,11 +16,11 @@
 ---
 ## 🌐 Live Demo
 
-**Explore SkillRadar Station OS v2.6:** [Launch SkillRadar Career Compass](https://skillradar-henna.vercel.app/)
+**Explore SkillRadar Station OS v2.6:** [Launch SkillRadar Career Compass]https://skillradar-station-paxicvh98-jaanvi4.vercel.app/
 
 Experience an interactive, AI-powered career exploration platform that helps college students explore career paths, assess their skills, identify skill gaps, simulate real-world job tasks, and build personalized learning roadmaps.
 
-- **Live Website:** https://skillradar-henna.vercel.app/
+- **Live Website:** (https://skillradar-station-paxicvh98-jaanvi4.vercel.app/)
 - **Source Code:** https://github.com/jaanvi131313-collab/SkillRadar
 - **Platform:** React, TypeScript, Three.js, Tailwind CSS
 - **Core Features:** 3D Career Hub, Skill Assessment, Role Matching, Job Simulations, AI Career Advisor, and Skill Development Roadmaps
